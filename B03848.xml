@@ -1,0 +1,265 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The judgment of God shewed upon one John Faustus, doctor in divinity. Tune of, Fortune my foe.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03848</idno>
+            <idno type="STC">Wing J1178</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.8[235]</idno>
+            <idno type="EEBO-CITATION">99887727</idno>
+            <idno type="PROQUEST">ocm99887727</idno>
+            <idno type="VID">183391</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03848)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183391)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A5:2[182])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The judgment of God shewed upon one John Faustus, doctor in divinity. Tune of, Fortune my foe.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts).  </extent>
+               <publicationStmt>
+                  <publisher>Printed by and for A.M. and sold by the booksellers of London.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1693?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication suggested by Wing.</note>
+                  <note>Verse: "All Christian men give ear a while to me ..."</note>
+                  <note>Trimmed.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Faust, d. ca. 1540 --  Legends --  Poetry --  Early works to 1800.</term>
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb n="235" facs="tcp:183391:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 23 -->
+            <head>The Judgment of God ſhewed upon one <hi>John Fauſtus</hi> Doctor in Divinity.</head>
+            <opener>Tune of, <hi>Fortune my Foe.</hi>
+            </opener>
+            <p>
+               <figure/>
+            </p>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>ALl Chriſtian men give ear a while to me,</l>
+               <l>How I am plung'd in pain but cannot die,</l>
+               <l>I liv'd a life the like did none before,</l>
+               <l>Forſaking Chriſt, and I am damn'd therefore.</l>
+            </lg>
+            <lg>
+               <l>At <hi>Wittenburge,</hi> a town in <hi>Germany,</hi>
+               </l>
+               <l>There was I born and bred of good degree,</l>
+               <l>Of honeſt Stock which afterwards I ſhamed,</l>
+               <l>Accurſt therefore for <hi>Fauſtus</hi> was I named.</l>
+            </lg>
+            <lg>
+               <l>In learning Ioe my Vncle brought up me,</l>
+               <l>And made me Doctor in Divinity:</l>
+               <l>And when he dy'd be left me all his wealth.</l>
+               <l>Whoſe curſed gold did hinder my ſouls health.</l>
+            </lg>
+            <lg>
+               <l>Then did I ſhun the Holy Bible book,</l>
+               <l>Nor on Gods word would ever after look,</l>
+               <l>But ſtudied accurſed Conjuration,</l>
+               <l>Which was the cauſe of my utter Damnation.</l>
+            </lg>
+            <lg>
+               <l>The Devil in Fryars weeds appeared to me,</l>
+               <l>And ſtreight to my Requeſt he did <unclear>come</unclear>,</l>
+               <l>That I might have all things at my deſire,</l>
+               <l>I gave him ſoul and body for his hire.</l>
+            </lg>
+            <lg>
+               <l>Twice did I make my tender fleſh to bleed,</l>
+               <l>Twice with my blood I wrote the Devils deed,</l>
+               <l>twice wretchedly I ſoul and body ſold,</l>
+               <l>to live in peace and do what things I would.</l>
+            </lg>
+            <lg>
+               <l>For four and twenty Years this bond was made,</l>
+               <l>And at the length my ſoul was truly paid,</l>
+               <l>time ran away, and yet I never thought</l>
+               <l>How dear my ſoul our Saviour Chriſt had bought</l>
+            </lg>
+            <lg>
+               <l>Would I had firſt been made a Beaſt by kind,</l>
+               <l>then had not I ſo vainly ſet my mind;</l>
+               <l>Or would when reaſon firſt began to bloom,</l>
+               <l>Some darkſome Den had been my deadly tomb.</l>
+            </lg>
+            <lg>
+               <l>Woe to the Day of my Nativity,</l>
+               <l>Woe to the time that once did foſter me,</l>
+               <l>And woe unto the hand that ſealed the Bill,</l>
+               <l>Woe to myſelf the cauſe of all my ill.</l>
+            </lg>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>THe time I paſt away with much delight</l>
+               <l>'Mongſt princes, peers, &amp; many a worl<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y<gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </l>
+               <l>I wrought ſuch wonders by my Magick Skill,</l>
+               <l>that all the world may talk of <hi>Fauſtus</hi> ſtill.</l>
+            </lg>
+            <lg>
+               <l>the Devil he carried me up into the Sky,</l>
+               <l>Where I did ſee how all the world did lie;</l>
+               <l>I went about the world in eight Daies ſpace,</l>
+               <l>And then return'd unto my Native place.</l>
+            </lg>
+            <lg>
+               <l>What pleaſure I did wiſh to pleaſe my mind,</l>
+               <l>He did perform as bond and ſeal did bind,</l>
+               <l>the ſecrets of the Stars and Planets told,</l>
+               <l>
+                  <unclear>Of</unclear> earth and ſea with wonders manifold.</l>
+            </lg>
+            <lg>
+               <l>When <hi>four and twenty years</hi> was almoſt run,</l>
+               <l>I thought of all things that was paſt and done;</l>
+               <l>How that the Devil would ſoon claim his right,</l>
+               <l>And carry me to Everlaſting Night.</l>
+            </lg>
+            <lg>
+               <l>then all too late I curſt my wicked Deed,</l>
+               <l>the Deed whereof doth make my heart to bleed,</l>
+               <l>All daies and hours, I mourned wondrous ſore,</l>
+               <l>Repenting me of all things done before.</l>
+            </lg>
+            <lg>
+               <l>I then did with both Sun and Moon to ſtay</l>
+               <l>All times and Seaſons, never to decay;</l>
+               <l>then had my time nere come to <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ated end,</l>
+               <l>For ſoul and body down to Hell deſcend.</l>
+            </lg>
+            <lg>
+               <l>At laſt when I had but one hour to come,</l>
+               <l>I turn'd my glaſs for my laſt hour to run,</l>
+               <l>And call'd in learned men to comfort me.</l>
+               <l>But faith was gone &amp; none could comfort me.</l>
+            </lg>
+            <lg>
+               <l>By twelve a Clock my glaſs was almoſt out,</l>
+               <l>My grieved Conſcience then began to doubt;</l>
+               <l>I wiſht the Students ſtay in Chamber by,</l>
+               <l>But as they ſtaid they heard a dreadful cry.</l>
+            </lg>
+            <lg>
+               <l>then preſently they came into the Hall,</l>
+               <l>VVhereas my brains was caſt againſt the wall,</l>
+               <l>Both arms and legs in pieces torn they ſee,</l>
+               <l>My bowels gone, this was an end of me.</l>
+            </lg>
+            <lg>
+               <l>You Conjurors and damned VVitches all,</l>
+               <l>Example take by my unhappy fall:</l>
+               <l>Give not your ſouls and bodies unto Hell,</l>
+               <l>See that the ſmalleſt hair you do not ſell.</l>
+            </lg>
+            <lg>
+               <l>But hope that Chriſt his Kingdom you may gain,</l>
+               <l>VVhere you ſhall never fear ſuch mortal pain:</l>
+               <l>Forſake the Devil and all his crafty ways,</l>
+               <l>Embrace true faith that never more decays.</l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed by and for A. M and ſold by the Bookſellers of <hi>London.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
